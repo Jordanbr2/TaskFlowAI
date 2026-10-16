@@ -63,7 +63,7 @@ while True:
         else:
             print("Invalid task number. Please try again.")
 
-    elif choice == "45":
+    elif choice == "4":
         if not tasks:
             print("No tasks to delete.")
             continue
